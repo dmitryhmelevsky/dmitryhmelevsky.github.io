@@ -1,0 +1,17 @@
+.navbarbuttons{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    margin: 10px;
+    text-transform: uppercase;
+
+
+
+}
+.mainheader{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.shapka{
+    background-color: aqua;
+}
